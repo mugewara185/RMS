@@ -1,4 +1,5 @@
 import React, {useState} from 'react'
+import AreaGraph from '../../../sandbox/components/areaGraph';
 import ChartHours from './ChartHours';
 import CounterProgress from './CounterProgress';
 import GaugePM from './GaugePM';
@@ -6,6 +7,23 @@ import PMStatusTimeline from './PMStatusTimeline';
 import GanttBar from './GanttBar';
 
 const RunHoursCard = () => {
+  const dummyCategories = [
+    "2025-07-03T02:35:00Z",
+    "2025-07-03T02:40:00Z",
+    "2025-07-03T02:45:00Z",
+    "2025-07-03T02:50:00Z",
+    "2025-07-03T03:00:00Z",
+    "2025-07-03T03:30:00Z",
+    "2025-07-03T04:00:00Z",
+    "2025-07-03T04:30:00Z",
+  ];
+  
+  const dummyData = [
+    {
+      name: "Blower_L1",
+      data: [10, 150, 150, 200, 300, 300, 400],
+    },
+  ];
   const [isOpen, setIsOpen]= useState(true)
 
   return (
@@ -25,7 +43,13 @@ const RunHoursCard = () => {
     { isOpen && ( 
         <div className='p-6 space-y-6'>
       {/* Hours Chart  */}
-      <ChartHours/>
+      {/* <ChartHours/> */}
+      <AreaGraph          
+          categories={dummyCategories}
+          data={dummyData}
+          lastValue={200}
+          setGraphHeight={() => {}}
+          dateDifference={1}/>
 
       {/* current hours and pm summary  */}
       <div className='text-sm space-y-2'>

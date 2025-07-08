@@ -23,13 +23,13 @@ const PMStatusTimeline = () => {
 
       <div className='border-t border-gray-500 relative h-16 flex items-start justify-between px-2'>
         {checkpoints.map((cp, index)=>(
-            <div key={index} className='flex flex-col items-center space-y-1'>
+            <div key={index} className='flex flex-col items-center space-y-1 space-x-2'>
                 <div className={`w-6 h-6 rounded-full flex items-center justify-center text-sm font-bold
                                 ${cp.status==="✔" ? "bg-green-500 text-white"
                                                    : "bg-yellow-500 text-black"
                                 }`}>
                     {cp.status}
-                </div>
+                </div>  
                 <div className='text-xs text-white'>{cp.value}</div>
                 <div className='text-xs text-gray-400'>{cp.unit}</div>
             </div>

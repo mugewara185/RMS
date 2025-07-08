@@ -1,6 +1,6 @@
 import React from 'react'
 import MainLayout from '../../../components/Layout/MainLayout'
-import RunHoursCard from '../../../components/RunHours/RunHoursCard'
+import RunHoursCard from './components/RunHoursCard'
 
 const RunHoursDashBoard = () => {
   return (
