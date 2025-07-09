@@ -16,7 +16,7 @@ const Sandbox = () => {
   const dummyData = [
     {
       name: "Blower_L1",
-      data: [10, 150, 150, 200, 300, 300, 400],
+      data: [10, 170, 150, 200, 300, 300, 400],
     },
   ];
   

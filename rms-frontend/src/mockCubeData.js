@@ -9,7 +9,7 @@ export const mockGraphData = {
       series: [
         {
           name: 'Operating Hours',     
-           data: [10, 150, 150, 200, 300, 300, 400],
+           data: [10, 180, 180, 200, 300, 300, 400],
 
         //   data: [
         //     { x: new Date('2025-07-01T00:00:00Z').getTime(), y: 120 },

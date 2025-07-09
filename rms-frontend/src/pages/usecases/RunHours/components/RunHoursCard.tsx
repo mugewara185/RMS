@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import AreaGraph from '../../../sandbox/components/areaGraph';
+import ChartHours2 from './RunHoursCardComponents/ChartHours2';
 import CounterProgress from './RunHoursCardComponents/CounterProgress';
 import GaugePM from './RunHoursCardComponents/GaugePM';
 import PMStatusTimeline from './RunHoursCardComponents/PMStatusTimeline';
@@ -25,9 +26,7 @@ const RunHoursCard: React.FC = () => {
     queryType: operatingHoursKpi.queryType,
   });
   
-  const { categories, 
-    series,
-    // series, 
+  const { categories, series,
     lastValue, isLoading, error } = cuberesult;
     
     console.log('cube results:',cuberesult,'data:', series[0]?.data ?? []);

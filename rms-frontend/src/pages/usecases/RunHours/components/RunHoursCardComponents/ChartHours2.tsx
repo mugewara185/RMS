@@ -11,7 +11,7 @@ import {
 } from "../utils/timeZoneFormatter";
 import { Box, Stack, Typography, Theme } from "@mui/material";
 import { makeStyles } from "@mui/styles";
-import useWindowReSize from "../utils/windowReSize";
+import useWindowReSize from "../utils/windowResize";
 
 // 🎨 Styles
 const useStyles = makeStyles((theme: Theme) => ({
@@ -46,7 +46,7 @@ const useStyles = makeStyles((theme: Theme) => ({
 }));
 
 // ✅ Replaced context + redux usage with constants
-const AreaGraph = ({
+const ChartHours2 = ({
   categories,
   data,
   lastValue,
@@ -191,10 +191,10 @@ const AreaGraph = ({
         gridLineWidth: 1,
         tickPositioner: function () {
           const { dataMax, dataMin }: any = this;
-          let list = [];
+          let list: number[]=[];
           for (let i = dataMin; i <= dataMax; i++) list.push(i);
-          let size = list.length / 8;
-          return list.filter((_: any, i: any) =>
+          let size = list?.length / 8;
+          return list?.filter((_: any, i: any) =>
             list.length <= 5 ? i % 2 === 0 : i % Math.round(size) === 0
           );
         },
@@ -276,4 +276,4 @@ const AreaGraph = ({
   );
 };
 
-export default AreaGraph;
+export default ChartHours2;
