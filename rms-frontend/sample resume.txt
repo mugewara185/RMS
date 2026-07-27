@@ -1,0 +1,181 @@
+
+​Textbox 1, Textbox 
+
+Pooja Midha 
+
+Senior QA Engineer 
+
+ 
+
+Quality Assurance Engineer with 7.5 years of experience in IT. Having experience in manual testing of Mobile and Web based applications, creating, editing and implementing test instructions to improve quality of the product. 
+
+ 
+
+ 
+
+ PROFESSIONAL HIGHLIGHTS 
+
+•
+Senior Test Engineer with 7.5 years of experience in the software industry testing web and mobile applications under multiple domains like e-learning, food delivery, online recruitment portal. 
+
+•
+Recently worked on a project based on online recruitment and onboarding of candidates. 
+
+•
+Performed functional and UI testing on different streams of client product- Recruitment portal 
+
+•
+Worked as a Senior test Engineer and lead in an e-learning based application project which helps students keep track of school materials and focus on exam preparation. 
+
+•
+Expertise in creating test plans and test cases on various tools such as Test rail with Gherkin test steps. 
+
+•
+Experienced with agile development environment. 
+
+•
+Experienced with project management tools such as JIRA. 
+
+•
+Performed database testing on various projects. 
+
+•
+Experienced in Smoke Testing, Sanity Testing, Regression testing and logging bugs on JIRA 
+
+•
+ Experiences with client interaction on various ceremonies like Sprint planning, sprint grooming, and sprint retro sessions with team. 
+
+​Group 6, Grouped object 
+
+ 
+
+ TOOLS PROFICIENCY 
+
+JIRA 
+ 
+ 
+ 
+ 
+  TestRail  
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+Firebase 
+ 
+ 
+ 
+ 
+  Postman  
+ 
+ 
+ 
+ 
+ 
+
+​Group 36, Grouped object 
+
+ 
+
+​Group 40, Grouped objectTECHNICAL SKILLS 
+
+ 
+
+Test Cases Design     Test Planning Documentation 
+
+Web Application Testing    Mobile Application Testing 
+
+Database Testing     API Testing 
+
+Regression Testing     Gherkin Format Test Steps Design 
+
+ 
+
+​Group 43, Grouped object 
+
+1
+​Textbox 1, Textbox 
+
+​Group 47, Grouped object 
+
+PROJECT EXPERIENCE 
+
+Senior Test Engineer 
+
+Domain – Online Recruitment platform 
+
+04/2023 - 05/2024 
+
+Brief Description of the Project: It is an online platform for candidates’ recruitment, onboarding, and performance management. NeoGov provides HR software solutions that basically helps government agencies to recruit new employees in an automated process of recruitment, modernize their processes and improve their processes for the entire employee lifecycle. 
+
+Tools & Technologies Used: JIRA, Postman, Test rail, Gherkin test steps. 
+
+Achievements/Tasks: 
+
+
+Creating and executing functional and regression test cases on TestRail. 
+
+
+Creating Test Plans for each JIRA story 
+
+
+Performed functional and UI testing on different streams of client product- Recruitment portal 
+
+
+Defect logging and tracking on JIRA and assigning failed test cases on TestRail 
+
+
+Worked on major features like Virtual Recruiter, Department restrictions, Campaign Metrics Report, Conversations Module, and Bulk Candidate Import which impacted major business and customer’s interest 
+
+
+Performed regression suite execution under TestRail for every release to make the product better and bugs free 
+
+
+Brainstorming sessions with dev team to build a deep understanding of features and their impact 
+
+
+Handled team of 3 testers, guiding and coordinating with them for client evaluation process 
+
+ 
+
+ Senior Test Engineer 
+
+Domain – E Learning 
+
+05/2021 - 03/2023 
+
+Brief Description of the Project: It is an online education platform for students, teachers and parents. This E-learning application helps students keep track of school materials and focus on exam preparation. Students can learn interactively with the tutors in their fields, watch video lessons packaged in animation, and enjoy various features to maximize the learning process. 
+
+Tools & Technologies Used: JIRA, Postman, Test rail, Clever tap, Firebase 
+
+Achievements/Tasks: 
+
+
+Performed manual testing on different streams of client product Education domain. 
+
+
+Created and executed test cases on test link tool/Test Rail. 
+
+
+Tested three web platforms including student, teacher, and admin panel for the client app. 
+
+
+Worked on Tryout feature which managed to have 6k and 12k participants in 2022 Tryouts which showed that was really an answer to the needs of School 
+
+
+Testing android/iOS/Web events on Firebase and Clever tap 
+
+
+Debugging and checking logs for android apps using Brave browser. 
+
+
+Collaborating with the team to build a deep understanding of features 
+
+
+Participating in regular meetings for sprint planning, sprint grooming and sprint retro sessions with product team 
+
+2
